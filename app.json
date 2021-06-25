@@ -1,7 +1,7 @@
 {
-  "name": "X-tra Telegram",
-  "description": "Userbot created by a SNAPDRAGON and custom fork by ANUBIS\n\n join https://t.me/XtraTgChat for any problems or support",
-  "logo": "https://telegra.ph/file/1be6c59f53fef57b5745b.jpg",
+  "name": "Ghost Userbot",
+  "description": "Userbot created by a Alfareza\n\n join https://t.me/TeamSquadUserbotSupport for any problems or support",
+  "logo": "",
   "keywords": [
     "telegram",
     "userbot",
@@ -9,7 +9,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/Prince-Mendiratta/X-tra-Telegram/",
+  "repository": "https://github.com/AftahBagas/Ghost-Userbot/",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
